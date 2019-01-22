@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff3da8bf-4fdb-4d78-a62b-23563ad52b4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/QuizQuestion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuizQuestion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuizQuestionButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuizQuestionButton.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/QuizQuestion.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            <state relative-caret-position="191">
+              <caret line="29" column="103" lean-forward="true" selection-start-line="29" selection-start-column="103" selection-end-line="29" selection-end-column="103" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -30,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QuizQuestionButton.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="30">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -55,9 +54,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/QuizEnd.js" />
+        <option value="$PROJECT_DIR$/src/Quiz.js" />
         <option value="$PROJECT_DIR$/src/QuizQuestionButton.js" />
         <option value="$PROJECT_DIR$/src/QuizQuestion.js" />
-        <option value="$PROJECT_DIR$/src/Quiz.js" />
       </list>
     </option>
   </component>
@@ -103,7 +102,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548190142636" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548190555154" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ECMAScript 6" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -138,12 +137,12 @@
       <option name="presentableId" value="Default" />
       <updated>1548181012777</updated>
       <workItem from="1548181017267" duration="230000" />
-      <workItem from="1548181401321" duration="5635000" />
+      <workItem from="1548181401321" duration="6062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5865000" />
+    <option name="totallyTimeSpent" value="6292000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -245,13 +244,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/QuizQuestionButton.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Quiz.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -262,10 +254,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/QuizQuestionButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/QuizQuestion.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        <state relative-caret-position="191">
+          <caret line="29" column="103" lean-forward="true" selection-start-line="29" selection-start-column="103" selection-end-line="29" selection-end-column="103" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
